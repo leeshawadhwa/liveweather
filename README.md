@@ -36,6 +36,19 @@ The project uses the OpenWeatherMap API to retrieve weather data. You will need 
 ├── style.css # CSS styles
 └── script.js # JavaScript code for fetching and displaying weather data
 
+## Attachments
+
+Delhi
+![image](https://github.com/leeshawadhwa/liveweather/assets/112744743/32ce7ade-afc9-450f-aec2-f4e3e9345fc1)
+
+Egypt
+![image](https://github.com/leeshawadhwa/liveweather/assets/112744743/f4e1ab40-f70a-4198-931a-22006cce0036)
+
+Egypt Weather
+![image](https://github.com/leeshawadhwa/liveweather/assets/112744743/b2585b17-a9d4-4702-bb39-ce3206ab63f1)
+
+API data of delhi
+![image](https://github.com/leeshawadhwa/liveweather/assets/112744743/67a4eba8-2379-4575-ae05-2838ee8a7a6e)
 
 
 ## Acknowledgements
